@@ -1,0 +1,19 @@
+
+git clone https://github.com/jsgiraldoh/Codimd.git
+
+sudo systemctl status docker
+
+sudo systemctl stop docker
+
+sudo usermod -aG docker “usuario”
+
+sudo usermod -aG docker ubuntu
+
+sudo docker container ls
+
+https://www.youtube.com/watch?v=-4CkPurTCMU
+
+johansebastiangh@gmail.com
+
+https://jsgiraldoh.io/Blog/Estructura-de-comandos/
+
